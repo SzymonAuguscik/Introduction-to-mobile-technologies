@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WallStreetWolfer</string>
+    <string name="wolf_name">image</string>
+    <string name="gold_name">image</string>
+    <string name="rates_button">Currency rates</string>
+    <string name="predictor_button">Currency exchange</string>
+    <string name="gold_button">Gold rate</string>
+    <string name="today_rate">Today\'s rate: %1$f</string>
+    <string name="yesterday_rate">Yesterday\'s rate: %1$f</string>
+    <string name="gold_rate">Today\'s gold rate:</string>
+    <string name="exchange_button">Exchange!</string>
+    <string name="edit_text_label">How much?</string>
+</resources>
